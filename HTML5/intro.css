@@ -1,0 +1,249 @@
+.main{
+    height: 650px;
+    width:1350px ;
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.one{
+    height: 50px;
+    width: 1050px;
+    /* border: 2px solid blue; */
+    font-size: 25px;
+}
+.two{
+    height: 150px;
+    width: 1250px;
+    /* border: 2px solid purple; */
+    display: flex;
+    background-color: white;
+    
+    gap: 10px;
+}
+.two >.t1{
+    height: 150px;
+    width: 300px;
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.t1 >.address{
+  height: 50px;
+  width: 300px;
+  /* border: 2px solid brown; */
+  font-size: 20px;
+}            
+.t1 >.saint{
+    height: 20px;
+  width: 300px;
+  /* border: 2px solid brown; */
+  font-size: 20px;
+}
+.t1 >.floor{
+    height: 20px;
+  width: 300px;
+  /* border: 2px solid brown; */
+  font-size: 20px;  
+}
+.two >.t2{
+    height: 140px;
+    width: 300px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.t2 >.logo1{
+    height: 30px;
+    width: 50px;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+.logo1 >.font-solid{
+    font-size: 25px;
+    
+}
+.t2 >.number{
+    height: 30px;
+    width:200px;
+    /* border: 2px solid green; */
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-size: 20px;
+    color: red;
+    
+}
+
+    
+
+.two >.t3{
+    height: 80px;
+    width: 400px;
+    /* border: 2px solid blue; */
+    margin-top: 70px;
+    margin-left: -315px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t3 >.logo2{
+    height: 30px;
+    width: 50px;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+
+}
+.logo2 >.fa-solid{
+    font-size: 25px;
+    color: blue;
+}
+.t3 >.email{
+    height: 30px;
+    width: 300px;
+    /* border: 2px solid forestgreen; */
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    font-size: 25px ;
+    color: blue;
+    
+}
+
+.two >.t4{
+    height: 150px;
+    width: 300px;
+    /* border: 2px solid blue; */
+    margin-left: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t4 >.location{
+    height: 50px;
+    width: 50px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.location >.fa-solid{
+    font-size: 30px;
+    color: red;
+}
+
+
+.three{
+    height: 380px;
+    width: 1250px;
+    /* border: 2px solid green; */
+    display: flex;
+    background-color: white;
+    gap: 10px;
+}
+.box1{
+    height: 420px;
+    width: 600px;
+    /* border: 2px solid red; */
+}
+.name{
+    height: 40px;
+    width: 250px;
+   
+
+}  
+.company{
+    height: 40px;
+    width: 250px;
+}
+
+.mail{
+    height: 40px;
+    width: 250px;
+}
+.mobile{
+    height: 40px;
+    width: 250px;
+}
+.message{
+    height: 100px;
+    width: 250px;
+}
+.send{
+    height: 40px;
+    width: 100px;
+    color: white;
+    border: none;
+    font-size: 15px
+ }
+ .box2{
+    height: 420px;
+    width: 670px;
+    /* border: 2px solid blue; */
+ }
+ .map{
+    height: 300px;
+    width: 600px;
+    /* border: 2px solid purple; */
+   
+ }
+ .font{
+    height: 80px;
+    width: 400px;
+    /* border: 2px solid orangered; */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+ }
+ .f{
+    height: 45px;
+    width: 40px;
+    /* border: 2px solid red; */
+    
+ }
+ .f >.fa-brands{
+    color: navy;
+    font-size: 35px;
+  }
+ .t{
+    height: 45px;
+    width: 40px;
+    /* border: 2px solid red; */
+   }
+   .t >.fa-brands{
+    color: #0197f6;
+    font-size: 35px;
+   }
+   .in{
+    height: 45px;
+    width: 40px;
+    /* border: 2px solid red; */
+   }
+   .in >.fa-brands{
+    color: #1560BD;
+    font-size: 35px;}
+
+
+   .git{
+    height: 45px;
+    width: 40px;
+    /* border: 2px solid red; */
+   }
+
+   .git >.fa-brands{
+    color: black;
+    font-size: 35px;}
+   
+ 
+
+   
